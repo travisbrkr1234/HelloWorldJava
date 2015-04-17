@@ -1,6 +1,3 @@
-hello-world
+HelloWorld
 ===========
-This is perty neat
-
-hello-world
-tester12345
+This is the example of an entry java program called HelloWorld
