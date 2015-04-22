@@ -1,1 +1,2 @@
-test
+See HelloWorld for the first program
+Truth contains a truth table that will one day give examples for each type of logical decision
