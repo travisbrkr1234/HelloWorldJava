@@ -52,11 +52,11 @@ public class Date
 
   public void setDay(int d)
   {
-    month = d;
+    day = d;
   }
 
   public void setYear(int y)
   {
-    month = y;
+    year = y;
   }
 }
