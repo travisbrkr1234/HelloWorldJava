@@ -37,6 +37,9 @@ public class MortgageCalculator {
 		DecimalFormat fmt = new DecimalFormat("$#,##0.00");
 		System.out.println( "Hello " + name + ", ");
 		System.out.println( "Your montly payment will be: " + fmt.format(payments) );
+		
+		// exit gracefully
+		System.exit(0);
 
 	}
 
